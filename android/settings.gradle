@@ -1,0 +1,3 @@
+rootProject.name = 'ARFun'
+
+include ':app'
